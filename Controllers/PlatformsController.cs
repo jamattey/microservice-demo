@@ -28,10 +28,27 @@ namespace PlatformService.Controllers
         {
             Console.WriteLine ("--> Getting Platforms.....");
 
-            var platformItems = _repository.GetAllPlatforms();
+            var platformItem = _repository.GetAllPlatforms();
 
-            return Ok (_mapper.Map<IEnumerable<PlatformReadDto>>(platformItems));
+            return Ok (_mapper.Map<IEnumerable<PlatformReadDto>>(platformItem));            
         }
+
+        [HttpGet ("{id}")]
+        public ActionResult<PlatformReadDto> GetPlaformById (int id)
+        {
+            var platformItem = _repository.GetPlatformById(id);
+
+            if (platformItem != null)
+            {
+                return Ok(_mapper.Map<PlatformReadDto>(platformItem));
+            }
+
+            return NotFound();
+        }
+
+        
+
+        
 
 
 
