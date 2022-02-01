@@ -1,64 +1,128 @@
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\appsettings.json
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\PlatformService.exe
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\PlatformService.deps.json
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\PlatformService.runtimeconfig.json
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\PlatformService.runtimeconfig.dev.json
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\PlatformService.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\ref\PlatformService.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\PlatformService.pdb
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\AutoMapper.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Humanizer.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\PlatformService.csproj.AssemblyReference.cache
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\PlatformService.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\PlatformService.AssemblyInfoInputs.cache
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\PlatformService.AssemblyInfo.cs
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\PlatformService.csproj.CoreCompileInputs.cache
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\staticwebassets\PlatformService.StaticWebAssets.Manifest.cache
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\staticwebassets\PlatformService.StaticWebAssets.xml
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\scopedcss\bundle\PlatformService.styles.css
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\PlatformService.RazorTargetAssemblyInfo.cache
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\PlatformService.csproj.CopyComplete
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\PlatformService.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\ref\PlatformService.dll
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\PlatformService.pdb
-C:\Users\James\Desktop\jh\Asset Manager Microservice\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/appsettings.json
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/PlatformService.exe
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/PlatformService.deps.json
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/PlatformService.runtimeconfig.json
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/PlatformService.runtimeconfig.dev.json
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/PlatformService.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/ref/PlatformService.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/PlatformService.pdb
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/AutoMapper.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Humanizer.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/PlatformService.csproj.AssemblyReference.cache
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/PlatformService.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/PlatformService.AssemblyInfoInputs.cache
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/PlatformService.AssemblyInfo.cs
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/PlatformService.csproj.CoreCompileInputs.cache
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/PlatformService.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/PlatformService.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/staticwebassets/PlatformService.StaticWebAssets.Manifest.cache
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/staticwebassets/PlatformService.StaticWebAssets.xml
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/scopedcss/bundle/PlatformService.styles.css
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/PlatformService.RazorTargetAssemblyInfo.cache
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/PlatformService.csproj.CopyComplete
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/PlatformService.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/ref/PlatformService.dll
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/PlatformService.pdb
+C:/Users/James/Desktop/jh/Asset Manager Microservice/PlatformService/obj/Debug/net5.0/PlatformService.genruntimeconfig.cache
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/appsettings.Development.json
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/appsettings.json
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/PlatformService.StaticWebAssets.xml
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/PlatformService
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/PlatformService.deps.json
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/PlatformService.runtimeconfig.json
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/PlatformService.runtimeconfig.dev.json
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/PlatformService.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/ref/PlatformService.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/PlatformService.pdb
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/AutoMapper.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Humanizer.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/jamie/Documents/GitHub/microservice-demo/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/PlatformService.csproj.AssemblyReference.cache
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/PlatformService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/PlatformService.AssemblyInfoInputs.cache
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/PlatformService.AssemblyInfo.cs
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/PlatformService.csproj.CoreCompileInputs.cache
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/PlatformService.MvcApplicationPartsAssemblyInfo.cs
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/PlatformService.MvcApplicationPartsAssemblyInfo.cache
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/scopedcss/bundle/PlatformService.styles.css
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/staticwebassets/PlatformService.StaticWebAssets.Manifest.cache
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/PlatformService.RazorTargetAssemblyInfo.cache
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/PlatformService.csproj.CopyComplete
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/PlatformService.dll
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/ref/PlatformService.dll
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/PlatformService.pdb
+/Users/jamie/Documents/GitHub/microservice-demo/obj/Debug/net5.0/PlatformService.genruntimeconfig.cache
